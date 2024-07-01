@@ -16,5 +16,4 @@ random.shuffle(list)
 print("suffle list:",list)
 
 random_sample=random.sample(list,2)
-
 print(random_sample)
