@@ -65,7 +65,6 @@ for i in d.values():
 
 for k,v in d.items():
     print(k,v)
-
 d.pop("one")
 print(d)
 
